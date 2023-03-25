@@ -18,7 +18,7 @@
 
 ## ✨ 年度总结
 
-<img height="200rem" src="https://github-readme-stats.vercel.app/api/?username=wifi504&show_icons=true&title_color=fb7299&icon_color=fb7299"> <img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=wifi504&layout=compact&title_color=fb7299">
+<a href="#"><img height="200rem" src="https://github-readme-stats.vercel.app/api/?username=wifi504&show_icons=true&title_color=fb7299&icon_color=fb7299"></a> <a href="#"><img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=wifi504&layout=compact&title_color=fb7299"></a>
 
 ## 📅 当前计划
 
