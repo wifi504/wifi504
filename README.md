@@ -14,11 +14,7 @@
 
 - 🏭 项目：[新建文件夹（](#)
 
-- 💬 联系我：
-
-  - email：localaccount@qq.com
-
-  - QQ：1974657233
+- 💬 联系我：email：localaccount@qq.com | QQ：1974657233
 
 ## ✨ 年度总结
 
