@@ -12,7 +12,7 @@
 
 - 🔗 个人网站：[lhlnb.top](https://www.lhlnb.top)（新的在做了在做了）
 
-- 🏭 项目：[一个静态展示的首页](https://github.com/wifi504/Website-Frontend) | [用于活动抽奖的网页程序](https://github.com/wifi504/Web-program-for-event-lottery)
+- 🏭 项目：[一个静态展示的首页](https://github.com/wifi504/Website-Frontend) | [用于活动抽奖的网页程序](https://github.com/wifi504/Web-program-for-event-lottery) | [校园网自动断线重连程序](https://github.com/wifi504/Campus-Network-Keep-Online) | [史莱姆农场区块查找器](https://github.com/wifi504/find-slime-chunk)
 
 - 💬 联系我：email：localaccount@qq.com | QQ：1974657233
 
