@@ -22,5 +22,6 @@
 
 ## 📅 当前计划
 
-- 学习 [Java](https://github.com/wifi504/JavaStudy)、VUE、SQL 等
+- 学习 [Java](https://github.com/wifi504/JavaStudy)、Vue.js、SQL 等
 - 使用新技术开发一项个人网站
+- 开发一个关于运营打印店的项目
