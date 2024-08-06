@@ -25,8 +25,9 @@
 - [x] 学习 HTML+CSS+JavaScript+JQuery+BootStrap 全家桶（Finished❤2021.12.16 - 2022.12.13）
 - [ ] 学习 Vue.js（Learning🖊2023.12.27 - now）
 - [x] 学会使用 [Git](https://github.com/wifi504/Git-Command) ，了解仓库结构与常用命令（Finished❤2023.3.20 - 2023.3.27）
-- [ ] 学习 [Java SE](https://github.com/wifi504/JavaStudy) ，正式拿下一门编程语言基础（Learning🖊2023.2.28 - now）
-- [ ] 学习 Java Web、Spring MVC、Spring、Spring Boot、Maven 等
+- [x] 学习 [Java SE](https://github.com/wifi504/JavaStudy) ，正式拿下一门编程语言基础（Finished❤2023.2.28 - 2024.8.6）
+- [ ] 学习 [Java Web](https://github.com/wifi504/JavaStudy) ，进击服务端开发基础（Learning🖊2024.8.6 - now）
+- [ ] 学习 Spring MVC、Spring、Spring Boot、Maven 等
 - [ ] 学习数据库 MySQL 之类的
 - [x] 学会使用 Nginx 配置反向代理、学会写 Config、玩转各种功能（Finished❤2021.12.30 - 2022.4.25）
 - [ ] 使用新技术开发一项个人网站
