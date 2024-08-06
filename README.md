@@ -28,7 +28,7 @@
 - [x] 学习 [Java SE](https://github.com/wifi504/JavaStudy) ，正式拿下一门编程语言基础（Finished❤2023.2.28 - 2024.8.6）
 - [ ] 学习 [Java Web](https://github.com/wifi504/JavaStudy) ，进击服务端开发基础（Learning🖊2024.8.6 - now）
 - [ ] 学习 Spring MVC、Spring、Spring Boot、Maven 等
-- [ ] 学习数据库 MySQL 之类的
+- [ ] 学习 MySQL 数据库（Learning🖊2024.8.6 - now）
 - [x] 学会使用 Nginx 配置反向代理、学会写 Config、玩转各种功能（Finished❤2021.12.30 - 2022.4.25）
 - [ ] 使用新技术开发一项个人网站
 - [ ] 开发一个关于打印店运营的项目
